@@ -1,1 +1,1 @@
-# jira-scripts-pub
+local_jira_scripts
