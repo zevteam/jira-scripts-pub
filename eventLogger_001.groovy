@@ -49,8 +49,8 @@ def lggr(String msg) {
 
 
 log.error "\n........................................................EVENT____ " + event.toString() + " ___FIRED...................................................................."
-log.error "The current user is " + currentUserObj.name;
-log.error "The current issue ID is " + event.issue.id;
-log.error "The current issue key is " + event.issue;
+log.error "The current user is " + currentUserObj.name;  
+log.error "The current issue ID is " + event.issue.id
+log.error "The current issue key is: " + event.issue
 log.error "The current issue description is " + event.issue.description;
 log.error "some info"
