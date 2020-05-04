@@ -1,1 +1,1 @@
-local_jira_scripts
+*local_jira_scripts*
